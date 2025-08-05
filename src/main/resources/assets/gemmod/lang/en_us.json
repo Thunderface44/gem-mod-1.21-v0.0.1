@@ -1,0 +1,13 @@
+{
+  "item.gemmod.amber_crystal": "Amber Crystal",
+  "item.gemmod.kyanite_crystal": "Kyanite Crystal",
+  "item.gemmod.rhodonite_crystal": "Rhodonite Crystal",
+  "item.gemmod.ruby_crystal": "Ruby Crystal",
+  "item.gemmod.tektite_crystal": "Tektite Crystal",
+
+  "block.gemmod.amber_block": "Amber Block",
+  "block.gemmod.kyanite_block": "Kyanite Block",
+  "block.gemmod.rhodonite_block": "Rhodonite Block",
+  "block.gemmod.ruby_block": "Ruby Block",
+  "block.gemmod.tektite_block": "Tektite Block"
+}

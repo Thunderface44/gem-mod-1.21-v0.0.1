@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "gemmod:block/tektite_block"
+    }
+  }
+}

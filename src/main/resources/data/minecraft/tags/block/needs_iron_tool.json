@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "gemmod:amber_block",
+    "gemmod:kyanite_block",
+    "gemmod:rhodonite_block",
+    "gemmod:ruby_block",
+    "gemmod:tektite_block",
+    "gemmod:amber_cluster"
+  ]
+}

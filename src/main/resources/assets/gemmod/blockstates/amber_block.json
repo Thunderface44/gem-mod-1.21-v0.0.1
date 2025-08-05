@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "gemmod:block/amber_block"
+    }
+  }
+}
